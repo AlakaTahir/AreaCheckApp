@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AreaCheck.Service/1.0.0": {
+        "dependencies": {
+          "AreaCheck.Model": "1.0.0"
+        },
+        "runtime": {
+          "AreaCheck.Service.dll": {}
+        }
+      },
+      "AreaCheck.Model/1.0.0": {
+        "runtime": {
+          "AreaCheck.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AreaCheck.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AreaCheck.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Model\bin\Debug\netcoreapp3.1\AreaCheck.Model.deps.json
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Model\bin\Debug\netcoreapp3.1\AreaCheck.Model.dll
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Model\bin\Debug\netcoreapp3.1\AreaCheck.Model.pdb
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Model\obj\Debug\netcoreapp3.1\AreaCheck.Model.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Model\obj\Debug\netcoreapp3.1\AreaCheck.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Model\obj\Debug\netcoreapp3.1\AreaCheck.Model.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Model\obj\Debug\netcoreapp3.1\AreaCheck.Model.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Model\obj\Debug\netcoreapp3.1\AreaCheck.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Model\obj\Debug\netcoreapp3.1\AreaCheck.Model.dll
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Model\obj\Debug\netcoreapp3.1\AreaCheck.Model.pdb

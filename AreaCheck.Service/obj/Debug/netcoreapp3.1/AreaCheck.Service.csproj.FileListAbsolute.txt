@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Service\bin\Debug\netcoreapp3.1\AreaCheck.Service.deps.json
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Service\bin\Debug\netcoreapp3.1\AreaCheck.Service.dll
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Service\bin\Debug\netcoreapp3.1\AreaCheck.Service.pdb
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Service\bin\Debug\netcoreapp3.1\AreaCheck.Model.dll
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Service\bin\Debug\netcoreapp3.1\AreaCheck.Model.pdb
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Service\obj\Debug\netcoreapp3.1\AreaCheck.Service.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Service\obj\Debug\netcoreapp3.1\AreaCheck.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Service\obj\Debug\netcoreapp3.1\AreaCheck.Service.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Service\obj\Debug\netcoreapp3.1\AreaCheck.Service.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Service\obj\Debug\netcoreapp3.1\AreaCheck.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Service\obj\Debug\netcoreapp3.1\AreaCheck.Service.csproj.CopyComplete
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Service\obj\Debug\netcoreapp3.1\AreaCheck.Service.dll
+C:\Users\HP\Desktop\Practice\AreaCheckApp\AreaCheck.Service\obj\Debug\netcoreapp3.1\AreaCheck.Service.pdb
